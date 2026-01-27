@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/main">
+        <file>pic/main/music.png</file>
+        <file>pic/main/main.png</file>
+        <file>pic/main/video.png</file>
+    </qresource>
+    <qresource prefix="/media">
+        <file>pic/video/volume.png</file>
+        <file>pic/video/stop.png</file>
+        <file>pic/video/quit.png</file>
+        <file>pic/video/prev.png</file>
+        <file>pic/video/play.png</file>
+        <file>pic/video/next.png</file>
+        <file>pic/video/del.png</file>
+        <file>pic/video/addfile.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>pic/music/volume.png</file>
+        <file>pic/music/stop.png</file>
+        <file>pic/music/prev.png</file>
+        <file>pic/music/play.png</file>
+        <file>pic/music/next.png</file>
+        <file>pic/music/main.png</file>
+        <file>pic/music/lrc.png</file>
+        <file>pic/music/del.png</file>
+        <file>pic/music/addfiles.png</file>
+        <file>pic/music/add.png</file>
+        <file>pic/music/cd.png</file>
+    </qresource>
+</RCC>
